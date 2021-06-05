@@ -62,7 +62,12 @@ a {
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #ff8444;
+  text-decoration: none;
+}
+
+af {
+  color: #d9b8f1;
   text-decoration: none;
 }
 
@@ -76,9 +81,19 @@ a {
   font-size: 20px
 }
 
+af {
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px
+}
+
+pn {
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px
+}
+
 strong {
   font-family: 'Nunito', sans-serif;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 heading {
@@ -88,7 +103,7 @@ heading {
 
 papertitle {
   font-family: 'Nunito', sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700
 }
 
