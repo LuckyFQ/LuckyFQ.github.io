@@ -86,14 +86,10 @@ af {
   font-size: 25px
 }
 
-pn {
-  font-family: 'Nunito', sans-serif;
-  font-size: 25px
-}
-
 strong {
   font-family: 'Nunito', sans-serif;
   font-size: 20px;
+  font-weight: 700
 }
 
 heading {
