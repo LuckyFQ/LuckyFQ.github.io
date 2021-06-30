@@ -141,6 +141,13 @@ name {
   font-size: 32px;
 }
 
+.footer {
+      font-family: 'Nunito-Regular', sans-serif;
+      font-size: 20px;
+      opacity: 0.75;
+      color: #777;
+}
+
 .one {
   width: 160px;
   height: 160px;
