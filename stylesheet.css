@@ -83,6 +83,11 @@
         url("./fonts/Nunito-SemiBold.woff2") format('woff2');
 }
 
+heading {
+  color: #87CEFA;
+  text-decoration: none;
+}
+
 a {
   color: #1772d0;
   text-decoration: none;
